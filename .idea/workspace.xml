@@ -4,65 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba200d1f-ab6a-41aa-be53-83a6e4399802" name="Changes" comment="">
+    <list default="true" id="ba200d1f-ab6a-41aa-be53-83a6e4399802" name="Changes" comment="slider added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/font/Vazir-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/Vazir-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/font/Yekan.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/Yekan.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/postcss.config.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.cjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/012-300x200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/012-300x200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1-brand-136x69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1-brand-136x69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/115-brand-136x69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/115-brand-136x69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/16-3-300x200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/16-3-300x200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1633949430.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1633949430.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1633949551.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1633949551.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1633949580.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1633949580.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1670058721.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1670058721.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1676813129.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1676813129.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1678518617.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1678518617.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1678518670.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1678518670.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1678518717.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1678518717.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1678518794.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1678518794.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1678518837.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1678518837.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1678709422.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1678709422.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1683619555.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1683619555.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1683619907.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1683619907.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1683619981.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1683619981.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1685341518.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1685341518.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1690971083.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1690971083.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691230806.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691230806.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691582812.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691582812.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691661918.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691661918.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691824841.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691824841.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691830973.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691830973.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691910093.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691910093.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691910258.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691910258.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1691938716.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1691938716.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/1692100392.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1692100392.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/17-2-300x200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/17-2-300x200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/2-8-300x200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/2-8-300x200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/239-brand-136x69.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/239-brand-136x69.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/3-8-300x200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/3-8-300x200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/444-brand-136x69.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/444-brand-136x69.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/6-9-300x200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/6-9-300x200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/683-brand-136x69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/683-brand-136x69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/823-brand-136x69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/823-brand-136x69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/867-brand-136x69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/867-brand-136x69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/905-brand-136x69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/905-brand-136x69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/921-brand-136x69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/921-brand-136x69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/banilogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/banilogo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/icon-search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/icon-search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/left-arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/left-arrow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/menu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/menu.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/sale-badge.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/sale-badge.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/public/img/shopping-bag.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/shopping-bag.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banimode/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +16,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -82,26 +26,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\project\banimode\banimode\public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -114,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -128,8 +83,17 @@
       <updated>1698483914142</updated>
       <workItem from="1698483915912" duration="2562000" />
       <workItem from="1698487006997" duration="10597000" />
-      <workItem from="1698497922527" duration="301000" />
+      <workItem from="1698497922527" duration="4682000" />
     </task>
+    <task id="LOCAL-00001" summary="slider added">
+      <option name="closed" value="true" />
+      <created>1698498735725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698498735725</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="slider added" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider added" />
   </component>
 </project>
