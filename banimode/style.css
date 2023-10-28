@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: IranYekan;
+    src: url('./font/Vazir-Regular.ttf');
+    /* src: url('./src/font/IRANYekanWebBold.woff');
+    src: url('./src/font/IRANYekanWebExtraBlack.woff');
+    src: url('./src/font/IRANYekanWebExtraBold.woff');
+    src: url('./src/font/IRANYekanWebLight.woff');
+    src: url('./src/font/IRANYekanWebMedium.woff');
+    src: url('./src/font/IRANYekanWebRegular.woff');
+    src: url('./src/font/IRANYekanWebThin.woff'); */
+}
+body{
+    @apply font-vazir;
+
+}
