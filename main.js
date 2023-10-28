@@ -9,7 +9,7 @@ const minute = document.querySelector(".minute");
 const second = document.querySelector(".second");
 
 let currIndex = 0;
-setInterval(function () {
+const timer = setInterval(function () {
 
     const countDownDate = new Date("Oct 30, 2024 15:37:25").getTime();
     const now = new Date().getTime();
@@ -30,6 +30,14 @@ setInterval(function () {
     hour.innerHTML = hours;
     minute.innerHTML = minutes;
     second.innerHTML = seconds;
+
+    if(deadLine < 0)
+    {
+        clearInterval(timer);
+        hour.innerHTML = "00";
+        minute.innerHTML = "00";
+        second.innerHTML = "00";
+    }
 }, 1000);
 
 
